@@ -36,6 +36,6 @@ Here, you will find some of our public projects and contributions to the open-so
 
 - **Website:** [www.guaralytics.com](https://www.guaralytics.com/)
 - **LinkedIn:** [Guaralytics LinkedIn](https://www.linkedin.com/company/guaralytics/)
-- **Twitter:** [@Guaralytics](https://twitter.com/guaralytics)
+- **Instagram:** [@Guaralytics](https://instagram.com/guaralytics)
 
 We welcome your feedback and contributions to our projects. Thank you for visiting our GitHub page!
