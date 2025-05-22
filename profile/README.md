@@ -1,14 +1,14 @@
-# Guaralytics
+# Sphere Lab
 
-Welcome to the official GitHub repository of Guaralytics!
+Welcome to the official GitHub repository of Sphere Lab!
 
 ## About Us
 
-Guaralytics is an innovative data analytics company specializing in turning complex data into actionable insights. We leverage cutting-edge technologies to provide our clients with customized solutions in the realms of big data, artificial intelligence, and machine learning. Our mission is to empower businesses through data-driven decisions, enhancing efficiency and driving growth.
+Sphere Lab is an innovative data analytics company specializing in turning complex data into actionable insights. We leverage cutting-edge technologies to provide our clients with customized solutions in the realms of big data, artificial intelligence, and machine learning. Our mission is to empower businesses through data-driven decisions, enhancing efficiency and driving growth.
 
 ## What We Do
 
-At Guaralytics, we offer a range of services including:
+At Sphere Lab, we offer a range of services including:
 
 - **Data Analysis:** Transforming raw data into meaningful information.
 - **Predictive Modeling:** Utilizing AI to forecast future trends.
@@ -26,7 +26,7 @@ We work with a variety of technologies, including but not limited to:
 
 ## Collaborate with Us
 
-We are always looking for talented individuals and innovative companies to collaborate with. If you are interested in partnering with us or exploring our services, please reach out to [contact@guaralytics.com](mailto:contact@guaralytics.com).
+We are always looking for talented individuals and innovative companies to collaborate with. If you are interested in partnering with us or exploring our services, please reach out to [contact@Sphere Lab.com](mailto:contact@Sphere Lab.com).
 
 ## Projects
 
@@ -34,8 +34,8 @@ Here, you will find some of our public projects and contributions to the open-so
 
 ## Connect with Us
 
-- **Website:** [www.guaralytics.com](https://www.guaralytics.com/)
-- **LinkedIn:** [Guaralytics LinkedIn](https://www.linkedin.com/company/guaralytics/)
-- **Instagram:** [@Guaralytics](https://instagram.com/guaralytics)
+- **Website:** [www.Sphere Lab.com](https://www.Sphere Lab.com/)
+- **LinkedIn:** [Sphere Lab LinkedIn](https://www.linkedin.com/company/Sphere Lab/)
+- **Instagram:** [@Sphere Lab](https://instagram.com/Sphere Lab)
 
 We welcome your feedback and contributions to our projects. Thank you for visiting our GitHub page!
